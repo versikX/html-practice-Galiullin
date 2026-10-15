@@ -1,0 +1,25 @@
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+p {
+    position: absolute;
+    left: 35%;
+    font-size: 20px;
+    line-height: 1.6;
+    color: #222;
+}
+
+img {
+    position: absolute;
+    left: 60%;
+    top: 150px;
+    border: 3px solid #444;
+    border-radius: 10px;
+}
